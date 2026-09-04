@@ -1,0 +1,6 @@
+# Python (paths relative to this directory)
+.venv/
+**/__pycache__/
+.pytest_cache/
+*.pyc
+.env
