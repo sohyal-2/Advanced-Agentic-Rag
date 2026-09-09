@@ -100,7 +100,7 @@ Text is converted to **embedding vectors** (arrays of numbers). Similar meaning 
 
 ### What is an LLM?
 
-A **Large Language Model** generates human-like text. This project supports several providers (Gemini, Groq, OpenRouter `:free` models, Hugging Face router, optional OpenAI) through a single fallback orchestrator in `src/lib/ai/fallback-rag-chat.ts`.
+A **Large Language Model** generates human-like text. This project supports several providers (Gemini, Groq, OpenRouter `:free` models, Hugging Face router, optional OpenAI) through a single fallback orchestrator in `src/lib/ai/fallback-rag-chat.ts`....
 
 ---
 
